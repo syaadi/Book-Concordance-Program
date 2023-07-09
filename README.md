@@ -81,4 +81,4 @@ The Book Concordance Program is developed by Group 6, Section 4, BIT10703, UTHM.
 For any inquiries or issues related to the program, please contact the contributors.
 
 # License
-
+The Book Concordance Program is released under the MIT License. You are free to modify, distribute, and use the program for both personal and commercial purposes. Refer to the [LICENSE](https://github.com/syaadi/Book-Concordance-Program/blob/main/LICENSE) file for more details.
