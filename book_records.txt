@@ -1,0 +1,50 @@
+Name: Demo Output Report
+ISBN: 978-3-16-148410-0
+Author: Adibah Aliya Nurin
+Publication Date: 9/7/2023
+--------------------------------
+Name: Demo Output Report ver. 2
+ISBN: 978-81-7525-766-5
+Author: Nizwan Waafi
+Publication Date: 10/7/2023
+--------------------------------
+Name: buku tomyam sedap
+ISBN: 172-32-8816-654-5
+Author: bae joohyun
+Publication Date: 5/8/2018
+--------------------------------
+Name: test buku
+ISBN: 934-76-2345-769-6
+Author: chanyeol
+Publication Date: 4/6/2018
+--------------------------------
+Name: kucen terbang
+ISBN: 198-43-4322-298-6
+Author: dibah cute
+Publication Date: 8/7/2011
+--------------------------------
+Name: batu oyen
+ISBN: 761-23-4398-462-7
+Author: kazuha
+Publication Date: 4/7/2023
+--------------------------------
+Name: batu yoyo
+ISBN: 552-52-1231-438-9
+Author: kim
+Publication Date: 7/9/2012
+--------------------------------
+Name: kucen terbang
+ISBN: 108-23-2222-231-1
+Author: kim hyunjin
+Publication Date: 3/7/2019
+--------------------------------
+Name: apa itu kpop
+ISBN: 298-53-2121-453-4
+Author: lily sakura
+Publication Date: 4/9/2011
+--------------------------------
+Name: buku cuba try
+ISBN: 887-43-9234-908-7
+Author: park chorong
+Publication Date: 2/9/2009
+--------------------------------
